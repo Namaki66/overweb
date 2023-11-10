@@ -1,0 +1,33 @@
+/*PERMET DE AMELIORER LE GRAPHISME DU SITE*/
+img { 
+    width: 1000px;
+    height: auto;
+    border: 2px;
+    padding:none;
+}
+
+html{
+    background-color:rgb(255, 123, 0)
+}
+    
+div{
+    display: flex;
+    justify-content: center;
+}
+.logo{
+   width: 400;
+   width: 100;
+    border-right: 0px solid; border-color: transparent;
+ 
+}
+
+header {
+    text-align: center;
+}
+body{
+   
+}
+
+button{
+  
+}
